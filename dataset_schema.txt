@@ -1,0 +1,30 @@
+# Dataset Schema – users_data
+
+This file explains the columns of the users_data table.
+
+| Column | Meaning |
+|--------|---------|
+| user_id | Unique user ID |
+| gender | Male or Female |
+| country | User country |
+| language | User language |
+| platform | Android / iOS / Web |
+| application | Ecommerce |
+| uses_profile_picture | 1 = Yes, 0 = No |
+| followers | Number of followers |
+| products_bought | Total products bought |
+| products_sold | Total products sold |
+| products_pass_rate | Product success rate |
+| wishlist | 1 = Used wishlist |
+| social_like | 1 = Used social like |
+| last_login_days | Days since last login |
+
+
+
+
+
+
+
+
+
+
